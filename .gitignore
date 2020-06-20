@@ -1,3 +1,8 @@
+*.VC.VC.opendb
+*/Debug/
+*/*/Debug/
+*/*/Release/
+
 # Prerequisites
 *.d
 
