@@ -2,6 +2,7 @@
 */Debug/
 */*/Debug/
 */*/Release/
+.vs/
 
 # Prerequisites
 *.d
